@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-I'm a tech enthusiast currently studying working on MERN stack and Next-js. Hoping to more web-dev in the coming months!! 
+I'm a tech enthusiast currently studying working on MERN stack and Next-js. Hoping to do more web-dev in the coming months!! 
 
 
 ## 🌐 Socials:
