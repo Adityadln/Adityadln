@@ -1,11 +1,6 @@
-Hi 👋 I am Aditya DLN!
+
 ===========================
 
-I am from Chennai , India and i m working on MERN and Next-js . I spend most of my time trying to learn new concepts and implement them myself . I look forward to understand web-dev a layer deeper one day at a time :)
-
-* 🌍  I'm based in Trichy , TamilNadu.
-* ✉️  You can contact me at [aditya.dln10@gmail.com](mailto:aditya.dln10@gmail.com).
-* 🧠  I'm currently learning Next-js with Typescript.
 
 ### Skills
 
