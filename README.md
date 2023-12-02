@@ -1,6 +1,6 @@
-
+## heyy there
 ===========================
-
+I love to turn ideas into actual code . 
 
 ### Skills
 
