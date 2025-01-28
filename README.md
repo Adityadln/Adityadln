@@ -1,6 +1,6 @@
 ## heyy there
 
-Exploring web-dev, one layer at a time :)
+Exploring technology, one layer at a time :)
 
 ### Skills
 
